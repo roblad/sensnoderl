@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+BAND	configuration.h	8;"	macro
+BASEDNODE	configuration.h	10;"	macro
+CONFIGURATION_H	configuration.h	2;"	macro
+DEBUG_BAUD	configuration.h	46;"	macro
+Irms	SENSSTRUCTPAYLOAD.h	69;"	member	struct:__anon1
+LED_ON	configuration.h	43;"	macro
+NETWORK	configuration.h	6;"	macro
+NEW_REV	configuration.h	7;"	macro
+NODEID	configuration.h	5;"	macro
+NSENSORS	configuration.h	31;"	macro
+Payload	SENSSTRUCTPAYLOAD.h	127;"	typedef
+Payloadrx	SENSSTRUCTPAYLOAD.h	137;"	typedef
+RADIO_SYNC_MODE	configuration.h	16;"	macro
+RFM69	configuration.h	11;"	macro
+SENSSTRUCTPAYLOAD_H	SENSSTRUCTPAYLOAD.h	2;"	macro
+STRUCT_CONTROL_BYTE	SENSSTRUCTPAYLOAD.h	8;"	macro
+STRUCT_DS_COUNT	SENSSTRUCTPAYLOAD.h	9;"	macro
+STRUCT_FIXED_BLOCK	SENSSTRUCTPAYLOAD.h	7;"	macro
+STRUCT_NSENSORS	SENSSTRUCTPAYLOAD.h	14;"	macro
+STRUCT_PULSE_MEASURE	SENSSTRUCTPAYLOAD.h	17;"	macro
+STRUCT_RELAY_STATUS	SENSSTRUCTPAYLOAD.h	15;"	macro
+STRUCT_TANK_LEVEL	SENSSTRUCTPAYLOAD.h	18;"	macro
+TANK_LEVEL	configuration.h	40;"	macro
+TXPOWER	configuration.h	9;"	macro
+Voltage	SENSSTRUCTPAYLOAD.h	100;"	member	struct:__anon2
+WAIT_TIME_MULTIPLY	configuration.h	15;"	macro
+battvol	SENSSTRUCTPAYLOAD.h	85;"	member	struct:__anon2
+cmd	SENSSTRUCTPAYLOAD.h	134;"	member	struct:__anon3
+controlbits	SENSSTRUCTPAYLOAD.h	87;"	member	struct:__anon2
+destnode	SENSSTRUCTPAYLOAD.h	133;"	member	struct:__anon3
+humi	SENSSTRUCTPAYLOAD.h	81;"	member	struct:__anon2
+light	SENSSTRUCTPAYLOAD.h	80;"	member	struct:__anon2
+lobat	SENSSTRUCTPAYLOAD.h	84;"	member	struct:__anon2
+measure	SENSSTRUCTPAYLOAD.h	128;"	variable
+measure_powermon	SENSSTRUCTPAYLOAD.h	75;"	typedef
+powerFactor	SENSSTRUCTPAYLOAD.h	71;"	member	struct:__anon1
+pressure	SENSSTRUCTPAYLOAD.h	83;"	member	struct:__anon2
+pulse	SENSSTRUCTPAYLOAD.h	116;"	member	struct:__anon2
+realPower	SENSSTRUCTPAYLOAD.h	70;"	member	struct:__anon1
+receivedvalue	SENSSTRUCTPAYLOAD.h	136;"	member	struct:__anon3
+relaystatus	SENSSTRUCTPAYLOAD.h	104;"	member	struct:__anon2
+rxdata	SENSSTRUCTPAYLOAD.h	138;"	variable
+sensor	SENSSTRUCTPAYLOAD.h	98;"	member	struct:__anon2
+state	SENSSTRUCTPAYLOAD.h	135;"	member	struct:__anon3
+tanklevel	SENSSTRUCTPAYLOAD.h	125;"	member	struct:__anon2
+temp	SENSSTRUCTPAYLOAD.h	82;"	member	struct:__anon2
+temp_DS	SENSSTRUCTPAYLOAD.h	92;"	member	struct:__anon2
